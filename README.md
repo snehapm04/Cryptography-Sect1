@@ -1,4 +1,4 @@
-# Cryptography-Sect1
+# Cryptography
 
 ## Section 1: Introduction to Cryptography and Zero Knowledge Proofs (ZKP)
 
